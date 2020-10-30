@@ -1,5 +1,5 @@
 {
-  "name": "serverless-artillery-client",
+  "name": "serverless-artillery-http-client",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
