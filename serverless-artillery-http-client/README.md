@@ -12,5 +12,11 @@
 1. Setup AWS credentials on deploy machine
 1. `$ slsart deploy`
 
+## Invoke test script
+1. `$ slsart invoke`
+
 ## Drop resources from AWS
 1. `$ slsart remove`
+
+## Configure test condition
+1. Configure `script.yml`
